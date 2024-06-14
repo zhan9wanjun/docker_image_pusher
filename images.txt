@@ -1,7 +1,7 @@
 ahsyon2023/nastools:db2.9.1
-linuxserver/emby:latest
-nyanmisaka/jellyfin:latest
-linuxserver/plex:latest
-gdy666/lucky:latest
-swr.cn-north-1.myhuaweicloud.com/iivey/firefox
+linuxserver/emby
+nyanmisaka/jellyfin
+linuxserver/plex
+gdy666/lucky
+swr.cn-north-1.myhuaweicloud.com/iivey/firefox:v1.1
 whyour/qinglong
