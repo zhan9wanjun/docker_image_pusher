@@ -3,4 +3,5 @@ linuxserver/emby:latest
 nyanmisaka/jellyfin:latest
 linuxserver/plex:latest
 gdy666/lucky:latest
-swr.cn-north-1.myhuaweicloud.com/iivey/firefox:v1.1
+swr.cn-north-1.myhuaweicloud.com/iivey/firefox
+whyour/qinglong
