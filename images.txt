@@ -8,4 +8,8 @@ whyour/qinglong
 whyour/qinglong:2.13.8
 whyour/qinglong:2.11.3
 whyour/qinglong:2.10.13
+80x86/filebrowser
+heyibear/study_xxqg
+hcm33041/newstudyxxqg
+a76yyyy/qiandao
 swr.cn-north-1.myhuaweicloud.com/iivey/firefox:v1.1
